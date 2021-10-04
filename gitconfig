@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = annabalaguy@hotmail.co.uk
+	name = Anna Balaguy
